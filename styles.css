@@ -92,7 +92,7 @@ section ul li {
     transition: transform .3s;
 }
 
-section ul li:hoover {
+section ul li:hover {
     transform:scale(1.1)
 }
 
